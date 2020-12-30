@@ -2,6 +2,7 @@ class ananthu{
 
 public static void main(string[] args){
    System.out.println("hello world");
-   System.out.printlin("second line added");  
+   System.out.printlin("second line added");
+   System.out.printlln("Adding 3rd line");  
 }
 }
